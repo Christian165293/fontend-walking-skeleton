@@ -1,3 +1,4 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/FBoJSjKkX9Uhs9jLZGDqPQ/9cxot1Ku9FCW7PVpVaWvM9/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/FBoJSjKkX9Uhs9jLZGDqPQ/9cxot1Ku9FCW7PVpVaWvM9/tree/main)
 You can run the application locally using:
     npm run dev
 
